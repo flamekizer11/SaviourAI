@@ -1,0 +1,10 @@
+PyQt5==5.15.9
+openai
+whisper
+pyaudio
+numpy
+requests
+pandas
+keyboard
+pyperclip
+pyttsx3
